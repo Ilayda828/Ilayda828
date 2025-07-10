@@ -3,13 +3,56 @@
 
 ---
 
-- 🔭 I’m currently working on coding projects in C and Java  
-- 🌱 I’m currently learning Python, Linux, Assembly, Haskell, Prolog  
-- 👯 I’m looking to collaborate on AI, IoT, and Machine Learning projects  
-- 🤔 I’m looking for help with advanced AI algorithms and functional programming  
-- 💬 Ask me about C, Java, AI basics, or Microsoft Office tools  
-- 📫 How to reach me: ilayda.ilhan0@gmail.com  
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love exploring new technologies and expanding my knowledge  
+## 🔭 Currently Working On
+- Coding projects in **C** and **Java**
+
+## 🌱 Learning
+- **Python**, **Linux**, **Assembly**, **Haskell**, **Prolog**
+
+## 👯 Looking to Collaborate On
+- AI, IoT, and Machine Learning projects
+
+## 🤔 Seeking Help With
+- Advanced AI algorithms and functional programming
+
+## 💬 Ask Me About
+- C, Java, AI basics, Microsoft Office tools
+
+## 📫 How to Reach Me
+- 📧 [ilayda.ilhan0@gmail.com](mailto:ilayda.ilhan0@gmail.com)
+
+## 😄 Pronouns
+- She/Her
+
+## ⚡ Fun Fact
+- I love exploring new technologies and expanding my knowledge
 
 ---
+
+## 🛠️ Skills
+
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4F0E?style=for-the-badge)
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Prolog](https://img.shields.io/badge/-Prolog-3B352E?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+![İlayda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ilayda828&show_icons=true&theme=radical&count_private=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ilayda828&theme=radical)](https://github.com/Ilayda828)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilayda-ilhan)
