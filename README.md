@@ -41,18 +41,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![İlayda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ilayda828&show_icons=true&theme=radical&count_private=true)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ilayda828&theme=radical)](https://github.com/Ilayda828)
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilayda-ilhan)
