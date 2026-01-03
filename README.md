@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m İlayda İlhan!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hi+there,+I+am+İlayda+İlhan;Computer+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Hi+there,+I+am+İlayda+İlhan;Computer+Engineering+Student)](https://git.io/typing-svg)
 
 ---
 
@@ -39,23 +39,3 @@ I am a 3rd-year Computer Engineering student at **Marmara University**. I specia
 - **R&D:** Explored Swift and Kotlin for mobile-extension integrations within an Agile workflow.
 
 ---
-
-## 🎓 Featured Academic Projects
-- **RAG-based AI System:** Developed a Retrieval-Augmented Generation system using **Python** and **Java**.
-- **E-Commerce System:** Designed a relational database with **MSSQL** and an **ASP.NET Core** web interface.
-- **Simulation & Modeling:** Built complex process models using **AnyLogic**.
-- **Digital Logic Design:** Simulated digital circuits using **Logisim** and **Verilog**.
-- **OS Automation:** Created automation tools and task managers using **Shell/Bash**.
-
----
-
-## 📫 Let's Connect!
-- 📧 **Email:** [ilayda.ilhan0@gmail.com](mailto:ilayda.ilhan0@gmail.com)
-- 💼 **LinkedIn:** [İlayda İlhan](https://www.linkedin.com/in/ilayda-ilhan-8b1451284/)
-- ⚡ **Fun Fact:** I love exploring how low-level Assembly meets high-level AI!
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilayda828&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilayda828&layout=compact&theme=tokyonight" height="150em"/>
-</p>
