@@ -33,7 +33,7 @@ I am a 3rd-year Computer Engineering student at **Marmara University**. I specia
 ---
 
 ## 💼 Work Experience
-### **Digital Garden Technology** | *Computer Engineering Intern* *July 2025 – August 2025*
+### *Computer Engineering Intern* *July 2025 – August 2025*
 - **API & Security:** Managed JWT token authentication and performed testing via Swagger/Postman.
 - **Development:** Built Chrome extension prototypes (JS/JSON) and implemented Java OOP components.
 - **R&D:** Explored Swift and Kotlin for mobile-extension integrations within an Agile workflow.
