@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+%26+System+Developer;AI+%26+Distributed+Systems+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=D41243&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+%26+System+Developer;AI+%26+Distributed+Systems+Enthusiast)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-ilayda828.github.io-00D4FF?style=for-the-badge&logo=github)](https://ilayda828.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ilayda-ilhan8b1451284)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ilayda-ilhan-8b1451284)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:ilayda.ilhan0@gmail.com)
 
 </div>
@@ -86,11 +86,3 @@ My academic journey involves building scalable systems—from low-level cache si
 * 💻 **Web Programming** - Turkcell Future Coders (2025)
 
 ---
-
-<div align="center">
-
-![Ilayda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ilayda828&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d4ff&icon_color=00ff88)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilayda828&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d4ff)
-
-</div>
